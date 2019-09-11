@@ -82,7 +82,7 @@ You should see your pod in the =Pending= state.
 
 ### Tasks
 
-- Look at [[https://github.com/kubernetes-client/python/blob/master/kubernetes/docs/V1Pod.md][Kubernetes Python API docs]] and adjust python script to print name of the requested scheduler too.
+- Look at [Kubernetes Python API docs](https://github.com/kubernetes-client/python/blob/master/kubernetes/docs/V1Pod.md) and adjust python script to print name of the requested scheduler too.
 
 ## Scheduling a Pod
 
@@ -121,7 +121,7 @@ def main():
                 print(ex)
 ```
 
-When you run your function it should schedule a pod. If you get an exception you can probably ignore it as there is currently bug in this [[https://github.com/kubernetes-client/gen/issues/52][API]].
+When you run your function it should schedule a pod. If you get an exception you can probably ignore it as there is currently bug in this [API](https://github.com/kubernetes-client/gen/issues/52).
 
 Check pod state by invoking:
 
