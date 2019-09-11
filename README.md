@@ -2,7 +2,7 @@
 Istio
 -----
 
-You can access OpenShift with preinstalled istio via:
+You can access OpenShift with preinstalled istio via: https://console-openshift-console.apps.cluster-prague-87c5.prague-87c5.open.redhat.com/k8s/cluster/projects
 
 If you want to install Istio on your cluster, please follow:
 
